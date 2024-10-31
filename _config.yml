@@ -21,7 +21,7 @@ repository               : "nwarford.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nwarford_profile_picture.jpeg"
   name             : "Dr. Noel Warford"
   pronouns         : "he/him"
   bio              : "Visiting assistant professor at Oberlin College. Currently on the market!"
