@@ -21,7 +21,7 @@ repository               : "nwarford.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nwarford_profile_picture.jpeg"
   name             : "Dr. Noel Warford"
   pronouns         : "he/him"
   bio              : "Visiting assistant professor at Oberlin College. Currently on the market!"
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
