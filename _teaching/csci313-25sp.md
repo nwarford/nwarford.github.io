@@ -8,4 +8,4 @@ date: 2025-02-01
 location: "Oberlin, OH"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A high-level overview of the field of HCI for upper-level CS majors. In this class, after covering basic concepts of design and HCI, we cover a broad variety of relevant topics based on student interest. Students also worked in groups to create and prototype new designs around a shared theme.

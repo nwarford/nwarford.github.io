@@ -8,4 +8,4 @@ date: 2024-08-01
 location: "Oberlin, OH"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching fundamentals of computer science using programming in Python as a basis. This course assumes no knowledge from students coming in, and takes them through basic object-oriented programming and recursion.
