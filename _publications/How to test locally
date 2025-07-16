@@ -1,0 +1,5 @@
+Run this:
+
+bundle exec jekyll serve -l -H localhost
+
+It uses local dependencies set up by jekyll (which I spent a good hour debugging the install of).
