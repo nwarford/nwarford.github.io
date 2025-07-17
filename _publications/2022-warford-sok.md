@@ -3,7 +3,7 @@ title: "SoK: A Framework for Unifying at-Risk User Research"
 collection: publications
 category: conferences
 permalink: /publication/2022-warford-sok
-excerpt: 'In this paper, we developed a framework of 10 contextual factors and a set of protective strategies to synthesize existing work on digital safety for at-risk users.'
+excerpt: 'This paper describes a framework of 10 contextual factors and a set of protective strategies that synthesize existing work on digital safety for at-risk users.'
 date: 2022-01-01
 venue: 'IEEE S&P'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9833643'
