@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://cs.engineering.gwu.edu/'>GWU CS</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nwarford_profile_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>SEH 4675</p><br>
+    <p>800 22nd Street, NW</p><br>
+    <p>Washington, DC 20052</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a Visiting Assistant Professor of Computer Science at The George Washington University, and I am on the job market! At the University of Maryland, I was advised by Michelle Mazurek. My research interests focus on the intersection of computer security and at-risk users---people who, due to context or circumstance, experience elevated digital-safety risks and harms. I use both qualitative and quantitative methods in my research, including interview design, reflexive thematic analysis, and survey design with appropriate statistical analysis. I have been lead instructor for both core and upper-level courses, including designing multiple new 300-level courses on human-computer interaction, cybersecurity, and natural language processing.
