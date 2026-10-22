@@ -32,11 +32,11 @@ cv:
         end_date: 2018
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: The George Washington University
+        position: Visiting Assistant Professor
+        location: Washington, DC
+        start_date: 2026
+        end_date: 
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
           - Relativity
